@@ -1,2 +1,3 @@
 # Strivers-SDE-Sheet-Challenge
-Strivers Sde challenge code 
+Trying to solve 191 Questions from strivers sde sheet within 28 days :)
+
